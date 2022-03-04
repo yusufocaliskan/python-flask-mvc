@@ -16,7 +16,7 @@ app.config.from_object(config)
 
 #---------------------[ Database ]---------------------
 app.config["MYSQL_USER"] = "root"
-app.config["MYSQL_PASSWORD"] = "Ma5ik33ysi45+"
+app.config["MYSQL_PASSWORD"] = "----"
 app.config["MYSQL_DB"] = "book_store"
 app.config["MYSQL_HOST"] = "localhost" 
 
